@@ -1,8 +1,7 @@
 # Analyzing Spotify Tracks Data
 Analysis using Excel
 ## Objective :
-
-To conduct a comprehensive analysis of the Spotify track dataset, exploring various dimensions of the music data to derive insights and trends. The objective includes* **Genre and Playlist Trends, Artist and Track Popularity Dynamics, Audio Feature Correlations, etc.**
+To conduct a comprehensive analysis of the Spotify track dataset, exploring various dimensions of the music data to derive insights and trends. The objective includes Genre and Playlist Trends, Artist and Track Popularity Dynamics, Audio Feature Correlations, etc.
 ## Tools:
 MS Excel
 ## Dataset link:
